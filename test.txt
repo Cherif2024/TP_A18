@@ -1,0 +1,13 @@
+premiere ligne
+
+deuxieme ligne
+
+ligne ajoutée par b1
+
+quatrieme ligne
+
+ligne ajoutée par b2
+
+ligne 6
+
+ligne ajoutée par b3
